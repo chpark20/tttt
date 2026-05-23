@@ -1,0 +1,238 @@
+{
+  "common": {
+    "companyName": "PBI Robot Education Center",
+    "companyFullName": "PBI Robot Education Center Co., Ltd.",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "contactUs": "Contact Us",
+    "enroll": "Enroll Now",
+    "backToHome": "Back to Home",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "required": "Required",
+    "phone": "+82-2-6949-0136",
+    "email": "edu@pbirobot.com",
+    "address": "C-1209, 168 Gasan Digital 1-ro, Geumcheon-gu, Seoul, Korea",
+    "copyright": "© 2026 PBI Robot Education Center. All rights reserved.",
+    "ageGroups": {
+      "kids": "Kids",
+      "teens": "Teens",
+      "adults": "Adults",
+      "corporate": "Corporate"
+    },
+    "levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "learning": "Online Learning",
+    "programs": "Programs",
+    "instructors": "Instructors",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "consultation": "Consult"
+  },
+  "home": {
+    "hero": {
+      "title": "The Future of Robot Education Starts Here",
+      "subtitle": "PBI Robot Education Center",
+      "description": "From kids to adults and corporations — build future tech skills with systematic curriculum and hands-on robot education.",
+      "cta": "View Courses",
+      "ctaSecondary": "Free Consultation"
+    },
+    "showcase": {
+      "title": "Popular Courses",
+      "subtitle": "Customized Robot Education Programs by Age",
+      "description": "Systematic curriculum with professional instructors"
+    },
+    "whyUs": {
+      "title": "Why PBI Education Center?",
+      "subtitle": "Preparing for the future with differentiated robot education",
+      "expert": {
+        "title": "Expert Instructors",
+        "description": "Learn from Ph.D. robotics engineers from top universities and professionals with 10+ years of field experience."
+      },
+      "handson": {
+        "title": "Hands-on Learning",
+        "description": "Practice over theory! Project-based education where you build and code real robots."
+      },
+      "allAge": {
+        "title": "All Ages Welcome",
+        "description": "Segmented programs for everyone from 5-year-old kids to adults and corporate teams."
+      },
+      "career": {
+        "title": "Career Support",
+        "description": "Post-completion support including PBI internships, competitions, and certification assistance."
+      }
+    },
+    "testimonials": {
+      "title": "Student Reviews",
+      "subtitle": "Stories from those who experienced PBI Education Center"
+    },
+    "cta": {
+      "title": "Start Your Robot Education Today",
+      "description": "Find the right course for you through a free consultation.",
+      "button": "Free Consultation"
+    }
+  },
+  "courses": {
+    "title": "Courses",
+    "subtitle": "Systematic robot education curriculum tailored to your age and level",
+    "filter": {
+      "all": "All",
+      "ageGroup": "Age Group",
+      "level": "Level"
+    },
+    "detail": {
+      "overview": "Overview",
+      "curriculum": "Curriculum",
+      "features": "Features",
+      "schedule": "Schedule",
+      "duration": "Duration",
+      "price": "Tuition",
+      "level": "Level",
+      "ageGroup": "Target",
+      "enrollNow": "Enroll Now",
+      "inquiry": "Inquiry"
+    }
+  },
+  "learning": {
+    "title": "Online Learning",
+    "subtitle": "Robot education content you can learn anytime, anywhere",
+    "categories": {
+      "all": "All",
+      "video": "Video",
+      "document": "Document",
+      "interactive": "Interactive"
+    },
+    "detail": {
+      "duration": "Duration",
+      "level": "Level",
+      "category": "Type",
+      "tags": "Tags",
+      "startLearning": "Start Learning",
+      "comingSoon": "Content coming soon"
+    }
+  },
+  "programs": {
+    "title": "Experience Programs",
+    "subtitle": "Special robot education through hands-on experience",
+    "types": {
+      "all": "All",
+      "camp": "Camp",
+      "workshop": "Workshop",
+      "field-trip": "Field Trip",
+      "competition": "Competition"
+    },
+    "detail": {
+      "type": "Program Type",
+      "ageGroup": "Target",
+      "duration": "Duration",
+      "location": "Location",
+      "highlights": "Highlights",
+      "apply": "Apply Now",
+      "inquiry": "Inquiry"
+    }
+  },
+  "instructors": {
+    "title": "Our Instructors",
+    "subtitle": "Robot education with the best experts",
+    "specialties": "Specialties"
+  },
+  "about": {
+    "hero": {
+      "title": "Building the Future Through Robot Education",
+      "subtitle": "PBI Robot Education Center nurtures future talent through systematic robot education."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "PBI Robot Education Center envisions 'a world where everyone can learn, build, and utilize robots.' Through hands-on education, expert instructors, and cutting-edge equipment, we provide optimal robot education for learners of all levels, from kids to corporations."
+    },
+    "values": {
+      "title": "Core Educational Values",
+      "practice": {
+        "title": "Hands-on Focus",
+        "description": "Balanced theory and practice education, pursuing project-based learning where students build and code."
+      },
+      "inclusion": {
+        "title": "Inclusive Education",
+        "description": "Creating an open educational environment where anyone can learn robotics regardless of age or background."
+      },
+      "innovation": {
+        "title": "Tech Innovation",
+        "description": "Continuously incorporating the latest robotics technology and teaching methods to provide forward-looking education."
+      }
+    },
+    "certifications": {
+      "title": "Education Certifications & Partners",
+      "description": "PBI Robot Education Center partners with domestic and international educational institutions and technology partners."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers about our education programs",
+    "categories": {
+      "general": "General",
+      "courses": "Courses",
+      "programs": "Programs",
+      "payment": "Payment/Refund"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We welcome education consultation and enrollment inquiries",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "interest": "Interest",
+      "interestPlaceholder": "Select the course you're interested in",
+      "interestOptions": {
+        "kids": "Kids Robot Education",
+        "teens": "Teen Robot Education",
+        "adults": "Adult Robot Education",
+        "corporate": "Corporate Training",
+        "programs": "Experience Programs",
+        "other": "Other"
+      },
+      "message": "Message",
+      "submit": "Request Consultation",
+      "success": "Your consultation request has been submitted. We will contact you shortly.",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "example@email.com",
+      "phonePlaceholder": "+82-10-0000-0000",
+      "messagePlaceholder": "Please enter your questions or consultation details"
+    },
+    "info": {
+      "title": "Education Center Info",
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Hours",
+      "hoursValue": "Weekdays 09:00-21:00 / Weekends 09:00-18:00"
+    },
+    "map": {
+      "title": "How to Find Us"
+    }
+  },
+  "footer": {
+    "education": "Education",
+    "programs": "Programs",
+    "support": "Support",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "businessInfo": "Business Information",
+    "ceo": "CEO: Hong Gildong",
+    "businessNumber": "Business Reg. No.: 000-00-00000"
+  }
+}

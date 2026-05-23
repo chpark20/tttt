@@ -1,0 +1,238 @@
+{
+  "common": {
+    "companyName": "PBI 로봇 교육센터",
+    "companyFullName": "주식회사 피비아이 로봇 교육센터",
+    "learnMore": "자세히 보기",
+    "viewAll": "전체 보기",
+    "contactUs": "문의하기",
+    "enroll": "수강 신청",
+    "backToHome": "홈으로 돌아가기",
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "success": "성공",
+    "submit": "제출하기",
+    "cancel": "취소",
+    "close": "닫기",
+    "required": "필수",
+    "phone": "02-6949-0136",
+    "email": "edu@pbirobot.com",
+    "address": "서울특별시 금천구 가산디지털1로 168, C동 1209호",
+    "copyright": "© 2026 PBI Robot Education Center. All rights reserved.",
+    "ageGroups": {
+      "kids": "키즈",
+      "teens": "청소년",
+      "adults": "성인",
+      "corporate": "기업"
+    },
+    "levels": {
+      "beginner": "입문",
+      "intermediate": "중급",
+      "advanced": "고급"
+    }
+  },
+  "nav": {
+    "home": "홈",
+    "courses": "교육과정",
+    "learning": "온라인학습",
+    "programs": "체험프로그램",
+    "instructors": "강사진",
+    "about": "소개",
+    "faq": "FAQ",
+    "contact": "문의",
+    "consultation": "상담 신청"
+  },
+  "home": {
+    "hero": {
+      "title": "로봇 교육의 미래가 시작됩니다",
+      "subtitle": "PBI 로봇 교육센터",
+      "description": "키즈부터 성인, 기업까지 — 체계적인 커리큘럼과 실습 중심의 로봇 교육으로 미래 기술 역량을 키워보세요.",
+      "cta": "교육과정 보기",
+      "ctaSecondary": "상담 신청하기"
+    },
+    "showcase": {
+      "title": "인기 교육과정",
+      "subtitle": "연령대별 맞춤 로봇 교육 프로그램",
+      "description": "전문 강사진과 함께하는 체계적인 커리큘럼"
+    },
+    "whyUs": {
+      "title": "왜 PBI 교육센터인가?",
+      "subtitle": "차별화된 로봇 교육으로 미래를 준비합니다",
+      "expert": {
+        "title": "전문 강사진",
+        "description": "KAIST, 서울대 등 명문 출신 로봇 공학 박사와 현장 경력 10년 이상의 전문가들이 교육합니다."
+      },
+      "handson": {
+        "title": "실습 중심 교육",
+        "description": "이론보다 실습! 직접 로봇을 만들고 코딩하며 배우는 프로젝트 기반 교육을 운영합니다."
+      },
+      "allAge": {
+        "title": "전 연령 맞춤",
+        "description": "5세 키즈부터 성인, 기업까지 연령과 수준에 맞는 세분화된 교육 프로그램을 제공합니다."
+      },
+      "career": {
+        "title": "진로·취업 연계",
+        "description": "수료 후 PBI 인턴십, 대회 참가, 자격증 취득 등 실질적인 진로 지원을 제공합니다."
+      }
+    },
+    "testimonials": {
+      "title": "수강생 후기",
+      "subtitle": "PBI 교육센터를 경험한 분들의 이야기"
+    },
+    "cta": {
+      "title": "로봇 교육, 지금 시작하세요",
+      "description": "무료 상담을 통해 나에게 맞는 교육과정을 찾아보세요.",
+      "button": "무료 상담 신청"
+    }
+  },
+  "courses": {
+    "title": "교육과정",
+    "subtitle": "연령대와 수준에 맞는 체계적인 로봇 교육 커리큘럼",
+    "filter": {
+      "all": "전체",
+      "ageGroup": "연령대",
+      "level": "난이도"
+    },
+    "detail": {
+      "overview": "과정 소개",
+      "curriculum": "커리큘럼",
+      "features": "특징",
+      "schedule": "수업 일정",
+      "duration": "교육 기간",
+      "price": "수강료",
+      "level": "난이도",
+      "ageGroup": "대상",
+      "enrollNow": "수강 신청하기",
+      "inquiry": "상담 문의"
+    }
+  },
+  "learning": {
+    "title": "온라인 학습",
+    "subtitle": "언제 어디서든 배울 수 있는 로봇 교육 콘텐츠",
+    "categories": {
+      "all": "전체",
+      "video": "영상",
+      "document": "문서",
+      "interactive": "인터랙티브"
+    },
+    "detail": {
+      "duration": "학습 시간",
+      "level": "난이도",
+      "category": "유형",
+      "tags": "태그",
+      "startLearning": "학습 시작하기",
+      "comingSoon": "콘텐츠 준비 중입니다"
+    }
+  },
+  "programs": {
+    "title": "체험 프로그램",
+    "subtitle": "직접 체험하며 배우는 특별한 로봇 교육",
+    "types": {
+      "all": "전체",
+      "camp": "캠프",
+      "workshop": "워크숍",
+      "field-trip": "견학",
+      "competition": "대회"
+    },
+    "detail": {
+      "type": "프로그램 유형",
+      "ageGroup": "대상",
+      "duration": "소요 시간",
+      "location": "장소",
+      "highlights": "프로그램 특징",
+      "apply": "참가 신청하기",
+      "inquiry": "문의하기"
+    }
+  },
+  "instructors": {
+    "title": "강사진",
+    "subtitle": "최고의 전문가들과 함께하는 로봇 교육",
+    "specialties": "전문 분야"
+  },
+  "about": {
+    "hero": {
+      "title": "로봇 교육으로 미래를 만듭니다",
+      "subtitle": "PBI 로봇 교육센터는 체계적인 로봇 교육을 통해 미래 인재를 양성합니다."
+    },
+    "vision": {
+      "title": "우리의 비전",
+      "description": "PBI 로봇 교육센터는 '누구나 로봇을 배우고, 만들고, 활용할 수 있는 세상'을 꿈꿉니다. 실습 중심의 교육, 전문 강사진, 최신 교육 장비를 통해 키즈부터 기업까지 모든 수준의 학습자에게 최적의 로봇 교육을 제공합니다."
+    },
+    "values": {
+      "title": "교육 핵심 가치",
+      "practice": {
+        "title": "실습 중심",
+        "description": "이론과 실습의 균형 있는 교육으로, 직접 만들고 코딩하며 배우는 프로젝트 기반 학습을 지향합니다."
+      },
+      "inclusion": {
+        "title": "포용적 교육",
+        "description": "나이, 배경에 관계없이 누구나 로봇 기술을 배울 수 있는 열린 교육 환경을 만들어갑니다."
+      },
+      "innovation": {
+        "title": "기술 혁신",
+        "description": "최신 로봇 기술과 교육 방법론을 지속적으로 반영하여 시대를 앞서가는 교육을 제공합니다."
+      }
+    },
+    "certifications": {
+      "title": "교육 인증 및 파트너",
+      "description": "PBI 로봇 교육센터는 국내외 교육 기관 및 기술 파트너와 함께합니다."
+    }
+  },
+  "faq": {
+    "title": "자주 묻는 질문",
+    "subtitle": "교육 과정에 대해 궁금한 점을 확인하세요",
+    "categories": {
+      "general": "일반",
+      "courses": "교육과정",
+      "programs": "체험프로그램",
+      "payment": "결제/환불"
+    }
+  },
+  "contact": {
+    "title": "문의하기",
+    "subtitle": "교육 상담 및 수강 신청 문의를 환영합니다",
+    "form": {
+      "name": "이름",
+      "email": "이메일",
+      "phone": "연락처",
+      "interest": "관심 분야",
+      "interestPlaceholder": "관심 있는 교육과정을 선택해주세요",
+      "interestOptions": {
+        "kids": "키즈 로봇 교육",
+        "teens": "청소년 로봇 교육",
+        "adults": "성인 로봇 교육",
+        "corporate": "기업 교육",
+        "programs": "체험 프로그램",
+        "other": "기타"
+      },
+      "message": "문의 내용",
+      "submit": "상담 신청하기",
+      "success": "상담 신청이 접수되었습니다. 빠른 시일 내에 연락드리겠습니다.",
+      "namePlaceholder": "홍길동",
+      "emailPlaceholder": "example@email.com",
+      "phonePlaceholder": "010-0000-0000",
+      "messagePlaceholder": "궁금한 점이나 상담 받고 싶은 내용을 입력해주세요"
+    },
+    "info": {
+      "title": "교육센터 정보",
+      "address": "주소",
+      "phone": "전화",
+      "email": "이메일",
+      "hours": "운영시간",
+      "hoursValue": "평일 09:00-21:00 / 주말 09:00-18:00"
+    },
+    "map": {
+      "title": "오시는 길"
+    }
+  },
+  "footer": {
+    "education": "교육",
+    "programs": "프로그램",
+    "support": "고객지원",
+    "legal": "법적 고지",
+    "privacy": "개인정보처리방침",
+    "terms": "이용약관",
+    "businessInfo": "사업자정보",
+    "ceo": "대표이사: 홍길동",
+    "businessNumber": "사업자등록번호: 000-00-00000"
+  }
+}
